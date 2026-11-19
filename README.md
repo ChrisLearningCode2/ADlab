@@ -3,9 +3,7 @@
 
 
 <h2>Description</h2>
-Created a Lab enviorment to set up Active Directory in Virtual Box. Connected other Virtual machines to the Domain Controller.
-Also used a power shell script to upload bulk users for training and practice.
-While configuring the Lab there were some .dll files missing which needed to be added for the VirtualBox to run. I also had issues with an Error pertaining to Hypervisor conflicts, that I also addressed.
+Built a lab environment to set up Active Directory in VirtualBox and joined other virtual machines to the domain controller. Used a PowerShell script to bulk-create users for training and practice. While configuring the lab I resolved missing .dll files that VirtualBox needed to run, and fixed an error caused by hypervisor conflicts.
 <br />
 
 
